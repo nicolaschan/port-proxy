@@ -7,7 +7,7 @@ A simple node program that allows you to host multiple webservers on a single ma
 - Easy to configure and use
 
 ## Installation
-Clone the repository, then
+Clone the repository, configure, then
 ```sh
 $ npm install
 $ npm start
