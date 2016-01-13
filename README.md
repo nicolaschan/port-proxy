@@ -1,5 +1,5 @@
 # Port Proxy
-A simple node programe that allows you to host multiple webservers on a single machine on the same port.
+A simple node program that allows you to host multiple webservers on a single machine on the same port.
 
 ## Features
 - Allows you to run multiple webservers on the same port (with different domain/subdomain for each one)
