@@ -1,6 +1,6 @@
 {
-	"httpPort": 9000,
-	"httpsPort": 9001,
+	"http port": 9000,
+	"https port": 9001,
 	"proxies": [{
 		"from": "http://subdomain.example.com",
 		"target": "http://localhost:8080"
@@ -12,6 +12,8 @@
 			"cert": "path/to/cert"
 		}
 	}],
-	"notFoundMessage": "404 not found",
-	"errorMessage": "An error occurred, please try again"
+	"error messages": {
+		"not found": "404 not found",
+		"proxy error": "An error occurred, please try again"
+	}
 }
